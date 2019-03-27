@@ -1,1 +1,1 @@
-# stud-up
+# Stud UP
